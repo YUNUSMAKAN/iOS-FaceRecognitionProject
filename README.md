@@ -1,2 +1,2 @@
-# IOS-FaceRecognitionProject
-IOS13 - FaceRecognitionProject
+# iOS-FaceRecognitionProject
+* iOS - FaceRecognitionProject
